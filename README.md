@@ -3,6 +3,9 @@
 > Personal portfolio website of **Ashutosh Pandey**, an MCA student focused on Java backend and full-stack development.
 
 ## 🌐 Portfolio
+## 🌐 Live Portfolio
+
+🚀 **[View My Portfolio](https://abhi8579.github.io/ashutosh-portfolio/)** — Explore my projects, technical skills, experience, and developer journey.
 
 This repository contains the source code for my personal developer portfolio, including my skills, projects, internship experience, education, certifications, and contact information.
 
